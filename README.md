@@ -1,7 +1,7 @@
 # CoordinatesOnPicture
 1- cd to exports
 
-2- run java -jar picture_path csv_path
+2- run java -jar CoordinatesOnPicture.jar picture_path csv_path
 
 3- picture open
 
