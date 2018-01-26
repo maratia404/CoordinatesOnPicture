@@ -1,4 +1,7 @@
 # CoordinatesOnPicture
+Unables to convert designated coordinates on picture to csv file
+
+
 1- cd to exports
 
 2- run java -jar CoordinatesOnPicture.jar picture_path csv_path
